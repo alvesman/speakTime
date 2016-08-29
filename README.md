@@ -1,7 +1,7 @@
 # speakTime
 Say time of day at configurable intervals
 
-This is a c# solution made with visaul studio 2015
+This is a c# solution made with Visual Studio 2015
 
 speakTime.sln - code to implement the task
 
